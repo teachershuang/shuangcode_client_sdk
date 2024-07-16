@@ -1,0 +1,2 @@
+#??springboot starter ?@springbootapplication????? ???????????
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.shuang.shuangcodeclientsdk.ShuangCodeClientConfig
